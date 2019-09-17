@@ -3,8 +3,5 @@ bbbbbb
 cccccc
 dddddd
 
-eeeeee
-ffffff
-
 dddddd
 gggggg
